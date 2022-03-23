@@ -3,8 +3,8 @@
 Ce dépôt Github contient le travail de Léo Bonal, Eliott Brucy, Gino Frazzoli et Paul Wassermann, réalisé dans le cadre de leur projet Digital.e. 
 Une grande partie du code provient de Thierry Artières et Stéphane Ayache.
 
-Le dépôt contient trois notebooks Python qui permettent de relancer le code avec les hyper-paramètres que nous avons sélectionnés et du code packagé sous le nom de 
-few_shot_auto_encoder.
+Le dépôt contient trois notebooks Python qui permettent de relancer le code avec les hyper-paramètres que nous avons sélectionnés. Le code packagé sous le nom de 
+few_shot_auto_encoder peut être obtenu sur demande. 
 
 # Package few_shot_auto_encoder
 
