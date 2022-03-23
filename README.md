@@ -9,7 +9,7 @@ few_shot_auto_encoder.
 # Package few_shot_auto_encoder
 
 Pour installer le package sur un intepréteur Python en mode "édition", il faut lancer dans un terminal de commande depuis 
-le dossier parent du package few_shot_auto_encoder:
+le dossier parent du package few_shot_auto_encoder (après avoir dézippé le dossier):
 
 `pip -e install few_shot_auto_encoder`
 
